@@ -1,3 +1,10 @@
+Hi , I'm Alok Singh
+
+
+
+
+
+
 - 👋 Hi, I’m @aloki9singh
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning MERN.
