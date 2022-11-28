@@ -38,8 +38,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloki9singh&show_icons=true&locale=en&layout=compact" alt="aloki9singh" /></p>
 <div display="flex">
-  <div width="50%" align="left">  <img width="50%"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="aloki9singh" /> </div>
-    <div width="50%" align="right" ><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></p>
+  <div width="50%">  <img width="50%"  align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="aloki9singh" /> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></div>
+<!--     <div width="50%" align="right" ></p> -->
 
 
   </div>
