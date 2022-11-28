@@ -5,11 +5,11 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloki9singh" alt="aloki9singh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloki9singh" alt="aloki9singh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aloksin39394350" target="blank"><img src="https://img.shields.io/twitter/follow/aloksin39394350?logo=twitter&style=for-the-badge" alt="aloksin39394350" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aloksin39394350" target="blank"><img src="https://img.shields.io/twitter/follow/aloksin39394350?logo=twitter&style=for-the-badge" alt="aloksin39394350" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://aloki9singh.github.io/)
 
