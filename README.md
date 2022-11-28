@@ -2,8 +2,8 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
-
-[![MasterHead](https://img.freepik.com/premium-vector/website-development-web-page-programming-coding_277904-5103.jpg?w=900)]
+<div height="400px">
+[![MasterHead](https://img.freepik.com/premium-vector/website-development-web-page-programming-coding_277904-5103.jpg?w=900)]<div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
 
