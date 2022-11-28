@@ -38,13 +38,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloki9singh&show_icons=true&locale=en&layout=compact" alt="aloki9singh" /></p>
 <div display="flex">
-  <div width="50%">  <img width="50%"  align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="aloki9singh" /> <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></div>
+  <div width="50%">  <img width="50%"  align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="aloki9singh" />   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&" alt="aloki9singh" /></p></div> <</div>
 <!--     <div width="50%" align="right" ></p> -->
 
-
+  p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></p>
   </div>
 
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&" alt="aloki9singh" /></p></div>
+
   </div>
   
   
