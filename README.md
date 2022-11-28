@@ -5,7 +5,10 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me kshatriyaalok1997@gmail.com
 
-<!---
-aloki9singh/aloki9singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Collaborative team player who is proficient in
+working with interdisciplinary teams and executing
+goal oriented projects. Strongly interested in obtaining
+a Software Developer position to work on enhancing
+the product experience.
+
+
