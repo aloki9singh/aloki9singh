@@ -1,5 +1,5 @@
 
-
+<div align="center">
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
 
@@ -41,3 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&" alt="aloki9singh" /></p>
+  </div>
