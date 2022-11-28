@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m @aloki9singh
+<div class="Header">👋 Hi, I’m @aloki9singh</div>
 - 👀 I’m interested in Coding (11*11).
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on 
