@@ -7,10 +7,9 @@
 - Masaian's Never Give up😎
 - 
 
-A Collaborative team player who is proficient in
+<b>A Collaborative team player who is proficient in
 working with interdisciplinary teams and executing
 goal oriented projects. Strongly interested in obtaining
 a Software Developer position to work on enhancing
-the product experience.
-
+the product experience.<b>
 
