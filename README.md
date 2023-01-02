@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
 
-<!-- [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif))] -->
+[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif))]
   
-  ## <picture><img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" width = "300px" height="300px"></picture> 
+<!--   ## <picture><img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" width = "300px" height="300px"></picture>  -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
 
