@@ -5,7 +5,7 @@
 
 <!-- [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif))] -->
   
-  ## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)" width = "300px" height="300px"></picture> 
+  ## <picture><img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" width = "300px" height="300px"></picture> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
 
