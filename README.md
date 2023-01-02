@@ -1,6 +1,15 @@
 
 <div align="center">
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
+  
+  
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi 👋, I'm Alok Singh..&hearts;++;A passionate Full Stack Web Developer developer from India"></a>
+</p>
+
+
+<br>
 <h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
 
 [![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif))]
