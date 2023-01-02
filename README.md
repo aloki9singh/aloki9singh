@@ -4,6 +4,8 @@
 <h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
 
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif))]
+  
+  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "100%"></picture> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
 
