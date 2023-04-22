@@ -50,7 +50,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloki9singh&show_icons=true&locale=en&layout=compact" alt="aloki9singh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&" alt="aloki9singh" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&" alt="aloki9singh" /></p> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloki9singh&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
   
   
