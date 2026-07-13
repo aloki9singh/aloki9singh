@@ -28,7 +28,7 @@
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=PROFILE+ACCESSES&color=00FF66&style=flat-square" alt="Profile Views" /> -->
-  <img width="800" height="800" alt="Alok Singh" src="https://github.com/user-attachments/assets/0f0cb59e-7cd2-41fa-9631-328de34736c3" />
+  <img width="200" height="200" alt="Alok Singh" src="https://github.com/user-attachments/assets/0f0cb59e-7cd2-41fa-9631-328de34736c3" />
 
 </p>
 
@@ -37,14 +37,14 @@
 ## 🛠️ TECH STACK & CAPABILITIES
 
 ### 🌐 Core Engine & Frameworks
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,python&perline=6" />
   </a>
 </p>
 
 ### 🗄️ Infrastructure, Databases & Tools
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postgres,aws,git,figma&perline=6" />
   </a>
