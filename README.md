@@ -21,9 +21,9 @@
 
 
 ```
-⚡ <b>Working as a Full Stack Developer </b> 
-📍 **Location:** Ghaziabad, Uttar Pradesh, India  
-🎓 **Education:** Pursuing Master of Computer Applications (MCA)  
+⚡ <b>Working as a Full Stack Developer </b> <br/>
+📍 **Location:** Ghaziabad, Uttar Pradesh, India  <br/>
+🎓 **Education:** Pursuing Master of Computer Applications (MCA)  <br/>
 🪐 **Fun Fact:** *All is well.*
 
 <p align="center">
