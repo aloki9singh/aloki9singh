@@ -1,137 +1,86 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img alt="Alok Singh GitHub Banner" src="./assets/dark.svg" width="100%">
-</picture>
+<!-- ANIMATED TECH/HACKER BANNER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=90&lines=%E2%96%88%E2%96%92%E2%96%92%E2%96%92+INITIALIZING+PROFILE...;%3E+Alok+Singh+%7C+Full+Stack+Developer;%3E+Building+Scalable+Architectures...;%3E+Status%3A+Elevating+Code+%E2%9A%A1" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloki9singh&theme=dracula&no-background=true&margin-w=15" alt="aloki9singh trophies" /></a>
+</p>
+
+---
+
+# ⚡ SYSTEM OVERVIEW
+
+⚡ **Working as a Full Stack Developer since:** `20 August 2025`  
+📍 **Location:** Ghaziabad, Uttar Pradesh, India  
+🎓 **Education:** Pursuing Master of Computer Applications (MCA)  
+🪐 **Fun Fact:** *All is well.*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=PROFILE+ACCESSES&color=00FF66&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## 🛠️ TECH STACK & CAPABILITIES
+
+### 🌐 Core Engine & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,python&perline=6" />
+  </a>
+</p>
+
+### 🗄️ Infrastructure, Databases & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postgres,aws,git,figma&perline=6" />
+  </a>
+</p>
+
+---
+
+## 📡 CURRENT TELEMETRY
+
+- 🔭 **Current Mission:** Optimizing my personal web nexus at [aloki9singh.github.io](https://aloki9singh.github.io/)
+- 🌱 **Deep Learning:** Expanding system capabilities with advanced **MERN & System Design**
+- 💬 **Ask Me About:** `React, Next.js, & Backend Architecture`
+- 📄 **Data Logs (CV):** [Access Experience Logs 📂](https://drive.google.com/file/d/19EwQyhfc0QFHjoSUwlmQmlteEuifG1X-/view?usp=share_link)
+
+---
+
+## 📊 CORE METRICS (CYBERPUNK THEME)
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Alok's Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&theme=tokyonight&hide_border=true" alt="Alok's Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloki9singh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 SECURE TERMINAL CONNECTIONS
+
+<p align="center">
+  <a href="https://linkedin.com/in/aloksingh9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/aloksin39394350" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:kshatriyaalok1997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://aloki9singh.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=00FF66" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <code>Console.log("Keep building clean architecture.");</code>
+</p>
 
 </div>
-
-# Hi 👋 I'm Alok Singh
-
-### Full Stack Developer
-
-💼 Working as a **Full Stack Developer** since **20 August 2025**
-
-📍 **Ghaziabad, Uttar Pradesh, India**
-
-🎓 Pursuing **Master of Computer Applications (MCA)**
-
-🌐 Portfolio: **https://aloki9singh.github.io/**
-
-📧 Email: **kshatriyaalok1997@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,python,docker,postgres,aws,git,figma&perline=6"/>
-
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://github.com/aloki9singh">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-<a href="https://www.linkedin.com/in/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
-
-<a href="https://twitter.com/">
-<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
-</a>
-
-<a href="https://aloki9singh.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloki9singh&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-> *"Building scalable web applications with clean architecture and great user experiences."*
-
-</p>
-<div align="center">
-<h1 align="center">Hi 👋, I'm Alok Singh</h1>
-  
-<!--   
-  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi 👋, I'm Alok Singh..&hearts;++;A passionate Full Stack Web Developer developer from India"></a>
-</p>
- -->
-
-<br>
-<h3 align="center">A passionate Full Stack Web Developer developer from India</h3>
-
-[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif))]
-  
-<!--   ## <picture><img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" width = "300px" height="300px"></picture>  -->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=Profile%20views&color=0e75b6&style=flat" alt="aloki9singh" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloki9singh" alt="aloki9singh" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/aloksin39394350" target="blank"><img src="https://img.shields.io/twitter/follow/aloksin39394350?logo=twitter&style=for-the-badge" alt="aloksin39394350" /></a> </p>
-
-- 🔭 I’m currently working on [Portfolio](https://aloki9singh.github.io/)
-
-- 🌱 I’m currently learning **MERN **
-
-- 👨‍💻 All of my projects are available at [https://aloki9singh.github.io/](https://aloki9singh.github.io/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **kshatriyaalok1997@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19EwQyhfc0QFHjoSUwlmQmlteEuifG1X-/view?usp=share_link](https://drive.google.com/file/d/19EwQyhfc0QFHjoSUwlmQmlteEuifG1X-/view?usp=share_link)
-
-- ⚡ Fun fact **All is well.**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/aloksin39394350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloksin39394350" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aloksingh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aloksingh9" height="30" width="40" /></a>
-<!-- <a href="[https://codesandbox.com/aloki9singh](https://codesandbox.io/u/aloki9singh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aloki9singh" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/kshatriyaalok191?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kshatriyaalok191" height="30" width="40" /></a> -->
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aloki9singh&show_icons=true&locale=en&layout=compact" alt="aloki9singh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&locale=en" alt="aloki9singh" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&" alt="aloki9singh" /></p> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloki9singh&theme=gruvbox-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-</div>
-  
-  
