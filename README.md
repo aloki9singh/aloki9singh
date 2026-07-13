@@ -1,4 +1,84 @@
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img alt="Alok Singh GitHub Banner" src="./assets/dark.svg" width="100%">
+</picture>
+
+</div>
+
+# Hi 👋 I'm Alok Singh
+
+### Full Stack Developer
+
+💼 Working as a **Full Stack Developer** since **20 August 2025**
+
+📍 **Ghaziabad, Uttar Pradesh, India**
+
+🎓 Pursuing **Master of Computer Applications (MCA)**
+
+🌐 Portfolio: **https://aloki9singh.github.io/**
+
+📧 Email: **kshatriyaalok1997@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,python,docker,postgres,aws,git,figma&perline=6"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/aloki9singh">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
+</a>
+
+<a href="https://aloki9singh.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aloki9singh&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aloki9singh&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloki9singh&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Building scalable web applications with clean architecture and great user experiences."*
+
+</p>
 <div align="center">
 <h1 align="center">Hi 👋, I'm Alok Singh</h1>
   
