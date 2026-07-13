@@ -11,13 +11,25 @@
 
 # ⚡ SYSTEM OVERVIEW
 
-⚡ **Working as a Full Stack Developer since:** `20 August 2025`  
+
+```text
+  __   _       ____  _  __     ____ ___ _   _  ____ _   _ 
+ / _\ | |     / __ \| |/ /    / ___|_ _| \ | |/ ___| | | |
+/    \| |___ | |  | | ' /     \___ \| ||  \| | |  _| |_| |
+\_/\_/|_____| \____/|_|\_\    |___)/| || |\  | |_| |  _  |
+                              |____/___|_| \_|\____|_| |_|
+
+
+```
+⚡ **Working as a Full Stack Developer ** 
 📍 **Location:** Ghaziabad, Uttar Pradesh, India  
 🎓 **Education:** Pursuing Master of Computer Applications (MCA)  
 🪐 **Fun Fact:** *All is well.*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=PROFILE+ACCESSES&color=00FF66&style=flat-square" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=aloki9singh&label=PROFILE+ACCESSES&color=00FF66&style=flat-square" alt="Profile Views" /> -->
+  <img width="800" height="800" alt="Alok Singh" src="https://github.com/user-attachments/assets/0f0cb59e-7cd2-41fa-9631-328de34736c3" />
+
 </p>
 
 ---
