@@ -3,9 +3,9 @@
 <!-- ANIMATED TECH/HACKER BANNER -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=90&lines=%E2%96%88%E2%96%92%E2%96%92%E2%96%92+INITIALIZING+PROFILE...;%3E+Alok+Singh+%7C+Full+Stack+Developer;%3E+Building+Scalable+Architectures...;%3E+Status%3A+Elevating+Code+%E2%9A%A1" alt="Typing SVG" />
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloki9singh&theme=dracula&no-background=true&margin-w=15" alt="aloki9singh trophies" /></a>
-</p>
+</p> -->
 
 ---
 
